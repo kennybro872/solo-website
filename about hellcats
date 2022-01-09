@@ -1,0 +1,29 @@
+<html>
+<head><h1>This is my solo build</h1>
+<title>Me trying to build a tiny webpage</title></head>
+<body>
+<div>
+<header><h2>Going solo with html</h2>
+<nav>
+<li><a href="#">Home</a></li>
+<li><a href="#">Articles</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact</a></li>
+</nav>
+</header>
+<p>This is me going solo with little experiance and am testing my
+current skills. I am going to be adding pictures and links to make my
+webpage stand out.</p>
+<img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2016_Dodge_
+Challenger_Hellcat_%2828456827004%29.jpg/320px-2016_Dodge_Challenger_Hellc
+at_%2828456827004%29.jpg" alt="challengerhellcat">
+<figcaption><em>
+Challenger Hellcat
+</em></figcaption>
+<p> I've learned alot since starting my fullstack course and am
+willing to go far beyond everything. I just need motivation and
+patience.</p>
+<a
+href="https://www.motorbiscuit.com/dodge-challenger-hellcat-everything-you
+-need-know/" target="_blank">All about the Hellcat</a>
